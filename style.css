@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+	background: black;
+}
+canvas {
+	position: relative;
+	background: url("img/space.png");
+	
+	margin-left: auto;
+	margin-right: auto;
+}
